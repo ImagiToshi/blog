@@ -1,8 +1,8 @@
 body {
-    background-color: var(--code-bg);
+    background-color: #F5F5F5;
 }
 body.dark {
-    background-color: var(--theme);
+    background-color: #1D1E20;
 }
 
 .friendurl {
