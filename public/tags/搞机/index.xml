@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>技术 on Imagi*Blog</title>
-    <link>https://imagi.site/categories/%E6%8A%80%E6%9C%AF/</link>
-    <description>Recent content in 技术 on Imagi*Blog</description>
+    <title>搞机 on Imagi*Blog</title>
+    <link>https://imagi.site/tags/%E6%90%9E%E6%9C%BA/</link>
+    <description>Recent content in 搞机 on Imagi*Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://imagi.site/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>专治各种缩放疑难杂症</title>
-      <link>https://imagi.site/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://imagi.site/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</guid>
-      <description>KDE Plasma 5（Wayland） 改缩放后界面糊 注销后重新登录解决。 Wayland 字体不如 X11 清晰 暂不清楚是什么原因，可能是字体渲染方式不同，把字体换成 Sarasa Gothic UI 能改善</description>
-    </item>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://imagi.site/tags/%E6%90%9E%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GSI 安装使用及电信卡无法通话问题修复</title>
       <link>https://imagi.site/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</link>
