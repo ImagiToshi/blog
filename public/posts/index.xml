@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章 on Imagi*Blog</title>
+    <link>https://imagi.site/posts/</link>
+    <description>Recent content in 文章 on Imagi*Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://imagi.site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专治各种缩放疑难杂症</title>
+      <link>https://imagi.site/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://imagi.site/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</guid>
+      <description>Reaper 编辑 ~/.config/REAPER/reaper.ini。 将 ui_scale_auto=1 修改为 ui_scale_auto=0。 根据实际情况修改 ui_scale= 后面的数字，例如：ui_scale=1.5。 原文链接
+OpenUtau 运行 xrandr --listactivemonitors 命令，输出差不多是这样： Monitors: 1 0: +*XWAYLAND0 1920/340x1080/190+0+0 XWAYLAND0 启动时添加 AVALONIA_SCREEN_SCALE_FACTORS=&#39;XWAYLAND0=1.5&#39; 环境变量，其中将 XWAYLAND0=1.5 自行替换成上一步输出的信息和所需缩放率。 原文链接</description>
+    </item>
+  </channel>
+</rss>
