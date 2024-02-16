@@ -7,6 +7,7 @@ languageCode: zh-cn
 enableInlineShortcodes: true
 enableEmoji: true
 enableRobotsTXT: true
+hasCJKLanguage: true
 
 minify:
   disableXML: true
@@ -73,6 +74,10 @@ menu:
       name: 时间轴
       url: /archives/
       weight: 40
+    - identifier: links
+      name: 友链
+      url: /links/
+      weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
