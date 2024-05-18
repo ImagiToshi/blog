@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>摄影 on Imagi*Blog</title>
+    <link>http://localhost:1313/tags/%E6%91%84%E5%BD%B1/</link>
+    <description>Recent content in 摄影 on Imagi*Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%91%84%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>摄影中的曝光三要素</title>
+      <link>http://localhost:1313/posts/%E6%91%84%E5%BD%B1%E4%B8%AD%E7%9A%84%E6%9B%9D%E5%85%89%E4%B8%89%E8%A6%81%E7%B4%A0/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%91%84%E5%BD%B1%E4%B8%AD%E7%9A%84%E6%9B%9D%E5%85%89%E4%B8%89%E8%A6%81%E7%B4%A0/</guid>
+      <description>曝光三要素分为光圈、快门和 ISO。这三个要素都是影响最终成像的关键。 光圈 光圈是用来调整镜头进光量的装置。一般用光圈系数来直观地表示光圈大小，</description>
+    </item>
+  </channel>
+</rss>

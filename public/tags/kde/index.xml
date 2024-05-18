@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wayland on Imagi*Blog</title>
-    <link>http://localhost:1313/tags/wayland/</link>
-    <description>Recent content in Wayland on Imagi*Blog</description>
+    <title>KDE on Imagi*Blog</title>
+    <link>http://localhost:1313/tags/kde/</link>
+    <description>Recent content in KDE on Imagi*Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>专治各种缩放疑难杂症</title>
       <link>http://localhost:1313/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</link>

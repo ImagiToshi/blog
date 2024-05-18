@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>安卓 on Imagi*Blog</title>
-    <link>https://imagi.site/tags/%E5%AE%89%E5%8D%93/</link>
+    <link>http://localhost:1313/tags/%E5%AE%89%E5%8D%93/</link>
     <description>Recent content in 安卓 on Imagi*Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://imagi.site/tags/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%AE%89%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GSI 安装使用及电信卡无法通话问题修复</title>
-      <link>https://imagi.site/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</link>
+      <link>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://imagi.site/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</guid>
+      <guid>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</guid>
       <description>本文搬运自原个人博客。 因年代久远，电信卡修复方案在最近的 GSI 刷机包中可能无法使用。刷基于 Android 12 的包应该是能用的。 安装前提条件：一台能使用 fastboot 命令的</description>
     </item>
   </channel>
