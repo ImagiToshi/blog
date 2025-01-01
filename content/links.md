@@ -9,7 +9,8 @@ comments: true
 reward: false
 showbreadcrumbs: false
 ---
-### 爱你们✨
+
+### 爱你们 ✨
 
 {{< friend name="朝色のBLOG" url="https://blog.zhaose.cyou/" logo="http://blog.zhaose.cyou/images/avatar.webp" word="永動機研究所的 ArchLinux 教徒" >}}
 
