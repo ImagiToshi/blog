@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</guid>
-      <description>KDE Plasma（Wayland） 改缩放后界面糊 注销后重新登录解决。 Wayland 字体不如 X11 清晰 暂不清楚是什么原因，可能是字体渲染方式不同，把字体换成 Sarasa Gothic</description>
+      <description>&lt;h2 id=&#34;kde-plasmawayland&#34;&gt;KDE Plasma（Wayland）&lt;/h2&gt;&#xA;&lt;h3 id=&#34;改缩放后界面糊&#34;&gt;改缩放后界面糊&lt;/h3&gt;&#xA;&lt;p&gt;注销后重新登录解决。&lt;/p&gt;&#xA;&lt;h3 id=&#34;wayland-字体不如-x11-清晰&#34;&gt;Wayland 字体不如 X11 清晰&lt;/h3&gt;&#xA;&lt;p&gt;&lt;del&gt;暂不清楚是什么原因，可能是字体渲染方式不同，把字体换成 &lt;code&gt;Sarasa Gothic UI&lt;/code&gt; 能改善。&lt;/del&gt;&lt;br&gt;&#xA;升级到 KDE Plasma 6。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

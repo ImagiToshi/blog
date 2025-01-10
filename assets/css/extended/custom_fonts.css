@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-ExtraLight.otf') format('opentype');
+    font-weight: thin;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-Light.otf') format('opentype');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-Medium.otf') format('opentype');
+    font-weight: medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-SemiBold.otf') format('opentype');
+    font-weight: semi-bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Serif CJK SC';
+    src: url('fonts/noto-serif/NotoSerifCJKsc-Black.otf') format('opentype');
+    font-weight: black;
+    font-style: normal;
+}
+
+@import url('https://cdn.jsdelivr.net/npm/jetbrains-mono@1.0.6/css/jetbrains-mono.min.css');
+
+body, h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'Noto Serif CJK SC', serif;
+}
+
+code {
+    font-family: 'JetBrains Mono';
+}

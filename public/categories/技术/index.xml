@@ -6,35 +6,28 @@
     <description>Recent content in 技术 on Imagi*Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[置顶] 一些小抄</title>
-      <link>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8A%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8A%84/</guid>
-      <description>缩放问题 详见此处 佳能 MF 系列打印机在 Arch 从 AUR 安装 cndrvcups-lb 包。</description>
-    </item>
-    <item>
-      <title>摄影中的曝光三要素</title>
-      <link>http://localhost:1313/posts/%E6%91%84%E5%BD%B1%E4%B8%AD%E7%9A%84%E6%9B%9D%E5%85%89%E4%B8%89%E8%A6%81%E7%B4%A0/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E6%91%84%E5%BD%B1%E4%B8%AD%E7%9A%84%E6%9B%9D%E5%85%89%E4%B8%89%E8%A6%81%E7%B4%A0/</guid>
-      <description>曝光三要素分为光圈、快门和 ISO。这三个要素都是影响最终成像的关键。 光圈 光圈是用来调整镜头进光量的装置。一般用光圈系数来直观地表示光圈大小，</description>
+      <title>安装 Git 后的配置方法</title>
+      <link>http://localhost:1313/posts/%E5%AE%89%E8%A3%85git%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E5%AE%89%E8%A3%85git%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;&lt;del&gt;因为自己太菜不会用 Git 所以写了个小抄&lt;/del&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;配置用户&#34;&gt;配置用户&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git config --global user.name &amp;#34;username&amp;#34;&#xD;&#xA;git config --global user.email &amp;#34;email@email.com&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;然后生成 ssh 密钥：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ssh-keygen -t rsa -b 4096 -C &amp;#34;email@email.com&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一直按回车就行。&lt;br&gt;&#xA;在用户目录下的 &lt;code&gt;.ssh&lt;/code&gt; 文件夹中找到 &lt;code&gt;id_rsa.pub&lt;/code&gt; 文件，将里面的内容复制到 GitHub 添加 SSH Key 即可。&lt;/p&gt;</description>
     </item>
     <item>
       <title>专治各种缩放疑难杂症</title>
       <link>http://localhost:1313/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E7%BC%A9%E6%94%BE%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/</guid>
-      <description>KDE Plasma（Wayland） 改缩放后界面糊 注销后重新登录解决。 Wayland 字体不如 X11 清晰 暂不清楚是什么原因，可能是字体渲染方式不同，把字体换成 Sarasa Gothic</description>
+      <description>&lt;h2 id=&#34;kde-plasmawayland&#34;&gt;KDE Plasma（Wayland）&lt;/h2&gt;&#xA;&lt;h3 id=&#34;改缩放后界面糊&#34;&gt;改缩放后界面糊&lt;/h3&gt;&#xA;&lt;p&gt;注销后重新登录解决。&lt;/p&gt;&#xA;&lt;h3 id=&#34;wayland-字体不如-x11-清晰&#34;&gt;Wayland 字体不如 X11 清晰&lt;/h3&gt;&#xA;&lt;p&gt;&lt;del&gt;暂不清楚是什么原因，可能是字体渲染方式不同，把字体换成 &lt;code&gt;Sarasa Gothic UI&lt;/code&gt; 能改善。&lt;/del&gt;&lt;br&gt;&#xA;升级到 KDE Plasma 6。&lt;/p&gt;</description>
     </item>
     <item>
       <title>GSI 安装使用及电信卡无法通话问题修复</title>
       <link>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</guid>
-      <description>本文搬运自原个人博客。 因年代久远，电信卡修复方案在最近的 GSI 刷机包中可能无法使用。刷基于 Android 12 的包应该是能用的。 安装前提条件：一台能使用 fastboot 命令的</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;本文搬运自原个人博客。&lt;br&gt;&#xA;因年代久远，电信卡修复方案在最近的 GSI 刷机包中可能无法使用。刷基于 Android 12 的包应该是能用的。&lt;br&gt;&#xA;安装前提条件：一台能使用 fastboot 命令的电脑，一台支持 Project Treble 并已解锁 Bootloader 的手机&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

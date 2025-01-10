@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/gsi%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E5%8F%8A%E7%94%B5%E4%BF%A1%E5%8D%A1%E6%97%A0%E6%B3%95%E9%80%9A%E8%AF%9D%E9%97%AE%E9%A2%98%E4%BF%AE%E5%A4%8D/</guid>
-      <description>本文搬运自原个人博客。 因年代久远，电信卡修复方案在最近的 GSI 刷机包中可能无法使用。刷基于 Android 12 的包应该是能用的。 安装前提条件：一台能使用 fastboot 命令的</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;本文搬运自原个人博客。&lt;br&gt;&#xA;因年代久远，电信卡修复方案在最近的 GSI 刷机包中可能无法使用。刷基于 Android 12 的包应该是能用的。&lt;br&gt;&#xA;安装前提条件：一台能使用 fastboot 命令的电脑，一台支持 Project Treble 并已解锁 Bootloader 的手机&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

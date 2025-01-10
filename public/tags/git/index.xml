@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Imagi*Blog</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in Git on Imagi*Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装 Git 后的配置方法</title>
+      <link>http://localhost:1313/posts/%E5%AE%89%E8%A3%85git%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E5%AE%89%E8%A3%85git%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/</guid>
+      <description>&lt;p&gt;&lt;del&gt;因为自己太菜不会用 Git 所以写了个小抄&lt;/del&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;配置用户&#34;&gt;配置用户&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git config --global user.name &amp;#34;username&amp;#34;&#xD;&#xA;git config --global user.email &amp;#34;email@email.com&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;然后生成 ssh 密钥：&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ssh-keygen -t rsa -b 4096 -C &amp;#34;email@email.com&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;一直按回车就行。&lt;br&gt;&#xA;在用户目录下的 &lt;code&gt;.ssh&lt;/code&gt; 文件夹中找到 &lt;code&gt;id_rsa.pub&lt;/code&gt; 文件，将里面的内容复制到 GitHub 添加 SSH Key 即可。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
