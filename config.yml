@@ -43,7 +43,7 @@ params:
     apple_touch_icon: "apple-touch-icon.png"
 
   label:
-    text: "主页"
+    text: "ImagiToshi"
 
   homeInfoParams:
     Title: "今木菟丝\U00002728个人博客"
